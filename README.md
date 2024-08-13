@@ -1,3 +1,3 @@
-# NCOR-Test
+# NCOR-Chicago
 
-NCOR-test page can be viewed [here](https://johnbeve.github.io/NCOR-Chicago/).
+NCOR-Chicago page can be viewed [here](https://johnbeve.github.io/NCOR-Chicago/).

@@ -1,3 +1,3 @@
-# NCOR-Chicago
+# NCOR-Riverside
 
-NCOR-Chicago page can be viewed [here](https://johnbeve.github.io/NCOR-Chicago/).
+NCOR-Riverside page can be viewed [here](https://johnbeve.github.io/NCOR-Riverside/).
